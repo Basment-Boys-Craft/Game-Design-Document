@@ -3,7 +3,7 @@
 ## Game name
 game name could be:
 * Cotten farm simulator
-* Mr cotren
+* Mr cotten
 * Farming cotten
   
 
