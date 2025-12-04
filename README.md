@@ -8,8 +8,8 @@ game name could be:
   
 
 ## Game platform
-
-We could provbly post thw game to mobile.
+ 
+We could probbly post thw game to mobile.
 
 ## Game Mechanica
 
